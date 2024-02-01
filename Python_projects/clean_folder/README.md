@@ -35,7 +35,7 @@
 Крім того, всі файли та папки треба перейменувати, видалив із назви всі символи, що призводять до проблем. Для цього треба застосувати до імен файлів функцію normalize. Слід розуміти, що перейменувати файли треба так, щоб не змінити розширень файлів.
 
 # Приклад, результату виконання скрипту, окрім сортування:  
-C:\Users\Admin>clean-folder C:\Users\Admin\Downloads\TRASH   
+C:\Users\Admin>```clean-folder C:\Users\Admin\Downloads\TRASH```  
 Словник зі списками файлів по групам:  
 images ['photo_5249176040260094473_y.jpg', 'Screenshot_2022-10-25-13-45-25-700_com.jpg', 'skrin1.jpg']  
 documents ['rio_2021_m5009.pdf', 'Konspekt_Python_Core.docx']  
