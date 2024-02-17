@@ -1,19 +1,13 @@
-# HW_1
+## Project name: Mr.Corgi's personal assistant
 
-## Завдання 2
+* A complete refactoring of the project code was done. 
 
-Ваш попередній додаток зараз працює в консольному режимі та взаємодіє з користувачем у вигляді команд в консолі. Додаток треба розвивати і найчастіше змінюваною частиною додатку зазвичай є інтерфейс користувача (поки що це консоль). Модифікуйте код вашого додатку, щоб подання інформації користувачу (виведення карток з контактами користувача, нотатками, сторінка з інформацією про доступні команди) було легко змінити. Для цього треба описати абстрактний базовий клас для користувальницьких уявлень та конкретні реалізації, які успадковують базовий клас та реалізують консольний інтерфейс.
+* The personal assistant script was changed. 
 
-## Назва проєкту: Mr.Corgi’s personal assistant
-
-* Був зроблений повний рефакторинг коду проєкту. 
-
-* Був змінений скрипт персонального помічника. 
-
-* Для цього було створено структуру файлів та папок:
+* A file and folder structure was created for this purpose:
 
 ├── console_assistant  
-│    ├── contacts    
+│    ├── contacts  
 │    │   ├── __init__.py  
 │    │   ├── book_classes.py  
 │    │   ├── contact_classes.py  
@@ -37,31 +31,31 @@
 │    └── README_ua.md    
 
 
-Був розроблений персональний помічник для містера Коргі. Містер Коргі - помічник Санта Клауса.   
-Бо містер Коргі потребує програму, що допоможе з його обов’язками.  
-Містер Коргі:   
-- Відповідає за книгу отримувачів подарунків:
-1. додає, 
-2. редагує, 
-3. видаляє, 
-4. шукає людей в ній.
-- Зберігає та слідкує за списком побажань отримувачів подарунків.
-- Може сказати у кого з них день народження через декілька днів.
-- Сортує файли.
+A personal assistant for Mr Corgi was developed. Mr Corgi is Santa Claus's assistant.   
+Because Mr Corgi needs an app to help him with his duties.  
+Mr Corgi:   
+- Responsible for the book of gift recipients:
+1. adds, 
+2. edits, 
+3. deletes, 
+4. searches for people in it.
+- Saves and monitors the list of gift recipients' wishes.
+- It can tell which of them has a birthday in a few days.
+- Sort files.
   
-Всі команди нашого особистого асистента для пана Коргі:  
+All commands of our personal assistant for Mr Corgi:  
   
-- add-contact              - додати контакт 
-- edit-contact             - відредагувати інформацію про контакт
-- delete-contact           - видалити контакт
-- delete-phone             - видалити телефон з деякого контакту
-- show-contacts            - показати всі контакти в адресній книзі
-- upcoming-birthdays       - показати список контактів, у яких день народження через певну кількість днів від поточної дати
-- search-contact           - пошук контактів в адресній книзі
-- add-note                 - додати нотатку з автором, якщо він є в контактній книзі
-- show-notes               - показати всі нотатки з авторами та тегами
-- search-notes             - пошук нотатки за словом або автором
-- edit-note                - редагувати нотатку 
-- delete-note              - видалити нотатку
-- sort-files               - сортувати файли по папкам 
-- exit                     - вийти з Помічника
+- add-contact        - add a contact 
+- edit-contact       - edit contact information
+- delete-contact     - delete a contact
+- delete-phone       - delete a phone number from a specific contact
+- show-contacts      - show all contacts in the address book
+- upcoming-birthdays - show a list of contacts whose birthday is in a certain number of days from the current date
+- search-contact     - search for contacts in the address book
+- add-note           - add a note with the author if it is in the contact book
+- show-notes         - show all notes with authors and tags
+- search-notes       - search for a note by word or author
+- edit-note          - edit a note 
+- delete-note        - delete a note
+- sort-files         - sort files by folder 
+- exit               - exit the Assistant
