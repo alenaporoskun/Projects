@@ -12,8 +12,8 @@
 
 * Для цього було створено структуру файлів та папок:
 
-├── HW_1 
-│    ├── contacts  
+├── console_assistant  
+│    ├── contacts    
 │    │   ├── __init__.py  
 │    │   ├── book_classes.py  
 │    │   ├── contact_classes.py  
