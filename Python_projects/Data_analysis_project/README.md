@@ -93,7 +93,7 @@
 
 #### Графіки
 
-- ![line1_population.png]([Python_projects/Data_analysis_project/samples/tables_and_graphs/line1_population.png](https://github.com/alenaporoskun/Projects/blob/24abbfe396630fca784a306e76e0f9ca693d69eb/Python_projects/Data_analysis_project/samples/tables_and_graphs/line1_population.png))
+![line1_population.png](Python_projects/Data_analysis_project/samples/tables_and_graphs/line1_population.png)
 
 - ![line2_population.png](Python_projects/Data_analysis_project/samples/tables_and_graphs/line2_population.png)
 - ![line2_population.jpg](Python_projects/Data_analysis_project/samples/tables_and_graphs/line2_population.jpg)
