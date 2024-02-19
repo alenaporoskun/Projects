@@ -22,10 +22,10 @@
 
 #### Scripts
 Для запуску докера з Jupiter Notebook.
-- [bash example_10_start_docker_compose_study_jupyter](Python_projects/Data_analysis_project/example_10_start_docker_compose_study_jupyter.sh)
+- [bash example_10_start_docker_compose_study_jupyter](example_10_start_docker_compose_study_jupyter.sh)
 
 або
-- [bash example_20_start_docker_cli_study_jupyter](Python_projects/Data_analysis_project/example_20_start_docker_cli_study_jupyter.sh)
+- [bash example_20_start_docker_cli_study_jupyter](example_20_start_docker_cli_study_jupyter.sh)
 
 
 ### Файли
@@ -38,8 +38,8 @@
 - example_10_start_docker_compose_study_jupyter.sh
 - example_20_start_docker_cli_study_jupyter.sh
 
-Файл виводу роботи [script_convert.py](Python_projects/Data_analysis_project/samples/script_convert.py):
-- [output__script_convert.txt](Python_projects/Data_analysis_project/samples/output__script_convert.txt)
+Файл виводу роботи [script_convert.py](samples/script_convert.py):
+- [output__script_convert.txt](samples/output__script_convert.txt)
 
 #### Вхідні дані (разархівовані та сконвертовані дані) з архівів [datasets](Python_projects/Data_analysis_project/datasets):
 
@@ -47,7 +47,7 @@
 - population.zip
 - ppp.zip
 
-Архіви були розпаковані в папку [data](Python_projects/Data_analysis_project/data), з них були скопійовані файли csv-формату у папку [src](Python_projects/Data_analysis_project/src).
+Архіви були розпаковані в папку [data](data), з них були скопійовані файли csv-формату у папку [src](src).
 
 ##### files 1.1 - 1.8 from folder 'src/oil-prices':
 
