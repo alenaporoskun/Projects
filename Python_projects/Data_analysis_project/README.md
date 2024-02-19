@@ -12,12 +12,12 @@
 
 ### Python code
 
-- [script_convert](Python_projects/Data_analysis_project/samples/script_convert.py)
+- [script_convert](samples/script_convert.py)
 
 
 ### Jupiter Notebooks
 
-- [jnb sample](Python_projects/Data_analysis_project/samples/sample.ipynb)
+- [jnb sample](samples/sample.ipynb)
 
 
 #### Scripts
