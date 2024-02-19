@@ -41,7 +41,7 @@
 Файл виводу роботи [script_convert.py](samples/script_convert.py):
 - [output__script_convert.txt](samples/output__script_convert.txt)
 
-#### Вхідні дані (разархівовані та сконвертовані дані) з архівів [datasets](Python_projects/Data_analysis_project/datasets):
+#### Вхідні дані (разархівовані та сконвертовані дані) з архівів [datasets](datasets):
 
 - oil-prices.zip
 - population.zip
