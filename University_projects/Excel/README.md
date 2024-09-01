@@ -5,3 +5,10 @@
 Всі виконані завдання згруповані у один файл -  [Homework Report](Probability_theory_and_mathematical_statistics/Probability_theory_in_machine_learning/practics/Report_Poroskun_PM-81.pdf)
 
 Файли по кожному завданню знаходяться у папках [docx](Probability_theory_and_mathematical_statistics/Probability_theory_in_machine_learning/practics/docx) та [xlsx](Probability_theory_and_mathematical_statistics/Probability_theory_in_machine_learning/practics/xlsx) відповідно.
+
+
+- Графовi ймовiрнiснi моделi
+
+
+
+- Системний аналiз та теорiя прийняття рiшень
