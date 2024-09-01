@@ -14,4 +14,4 @@
 
 - Системний аналiз та теорiя прийняття рiшень
 
-[Report Practics](System_analysis_and_decision_theory/Practics/Practics_System_analysis.pdf)
+Всі виконані завдання згруповані у один файл -  [Report Practics](System_analysis_and_decision_theory/Practics/Practics_System_analysis.pdf)
