@@ -9,6 +9,7 @@
 
 - Графовi ймовiрнiснi моделi
 
+Всі виконані завдання згруповані у один файл -  [Report Practics](Graph-based_probabilistic_models/PRACT/Practics_Poroskun_GBPM.pdf)
 
 
 - Системний аналiз та теорiя прийняття рiшень
