@@ -44,7 +44,7 @@
 #### Вхідні дані (разархівовані та сконвертовані дані) з архівів:
 
 - [oil-prices.zip](datasets/oil-prices.zip)
-- [population.zip](/datasets/population.zip)
+- [population.zip](datasets/population.zip)
 - [ppp.zip](datasets/ppp.zip)
 
 Архіви були розпаковані в папку [data](data/), з них були скопійовані файли csv-формату у папку [src](src/).
