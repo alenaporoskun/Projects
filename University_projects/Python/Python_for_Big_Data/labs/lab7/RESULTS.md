@@ -90,14 +90,14 @@
 - [correlation_population_oil.csv](samples/tables_and_graphs/correlation_population_oil.csv)
 
 #### Графіки
-- [line1_population.png](samples/tables_and_graphs/line1_population.png)
+- ![line1_population.png](samples/tables_and_graphs/line1_population.png)
 
-- [line2_population.png](samples/tables_and_graphs/line2_population.png)
-- [line2_population.jpg](samples/tables_and_graphs/line2_population.jpg)
-- [line2_population.pdf](samples/tables_and_graphs/line2_population.pdf)
+- ![line2_population.png](samples/tables_and_graphs/line2_population.png)
+- ![line2_population.jpg](samples/tables_and_graphs/line2_population.jpg)
+- ![line2_population.pdf](samples/tables_and_graphs/line2_population.pdf)
 
-- [pie_population.png](samples/tables_and_graphs/pie_population.png)
-- [bar_population.png](samples/tables_and_graphs/bar_population.png)
+- ![pie_population.png](samples/tables_and_graphs/pie_population.png)
+- ![bar_population.png](samples/tables_and_graphs/bar_population.png)
 
 ---
 
