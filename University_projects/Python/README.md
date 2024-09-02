@@ -12,6 +12,12 @@
 
 Всі виконані завдання згруповані у один файл -  [Report Practics Machine learning](Machine_learning/practics/Lab_1-8_Machine_learning.pdf)
 
+## Python для Big Data
+
+Пояснення до завдання -  [RESULTS.md](Python_for_Big Data_(pandas_etc)/ssu_2023_pbd-master/project_(from_lab7)/RESULTS.md)
+
+Файл з рішенням - [sample_PDF](Python_for_Big Data_(pandas_etc)/ssu_2023_pbd-master/project_(from_lab7)/samples/sample_PDF.pdf)
+
 ## 
 
 Всі виконані завдання згруповані у один файл -  [Report Practics ]()
