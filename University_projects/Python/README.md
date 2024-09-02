@@ -14,9 +14,9 @@
 
 ## Python для Big Data
 
-Пояснення до завдання -  [RESULTS.md](Python_for_Big Data_(pandas_etc)/ssu_2023_pbd-master/project_(from_lab7)/RESULTS.md)
+Пояснення до результатів фінального завдання - [RESULTS](Python_for_Big_Data/labs/lab7/RESULTS.md)
 
-Файл з рішенням - [sample_PDF](Python_for_Big Data_(pandas_etc)/ssu_2023_pbd-master/project_(from_lab7)/samples/sample_PDF.pdf)
+Фінальний файл з рішенням - [sample_PDF](Python_for_Big_Data/labs/lab7/samples/sample_PDF.pdf)
 
 ## 
 
