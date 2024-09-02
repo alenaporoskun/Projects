@@ -103,7 +103,7 @@
 
 ## Інструкція до роботи
 
-1. Запускаемо [script_convert](samples/script_convert.py).
+1. Запускаємо [script_convert](samples/script_convert.py).
 
 2. Результат script_convert:
     1. Розпакування .zip архівів в папку [data](data/).
