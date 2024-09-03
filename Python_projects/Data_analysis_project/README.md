@@ -96,7 +96,7 @@
 - ![line1_population.png](samples/tables_and_graphs/line1_population.png)
   
 - ![line2_population.png](samples/tables_and_graphs/line2_population.png)
-- ![line2_population.jpg](samples/tables_and_graphs/line2_population.jpg)
+- [line2_population.jpg](samples/tables_and_graphs/line2_population.jpg)
 - [line2_population.pdf](samples/tables_and_graphs/line2_population.pdf)
 
 - ![pie_population.png](samples/tables_and_graphs/pie_population.png)
