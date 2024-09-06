@@ -18,7 +18,7 @@
 
 ### [Website scraping (quotes)](Website_scraping)
 
-* Скрапінг сайту quotes.toscrape.com.
+* Скрапінг сайту [quotes.toscrape.com](http://quotes.toscrape.com).
 
 * Реалізація аналогу такого сайту з можливістю реєстрації та додавання нового автора та нової цитати на сайт.
 
