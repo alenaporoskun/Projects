@@ -12,15 +12,15 @@
 
 * Додаток дозволяє зберігати контакти, додавати нотатки, обробляти файли та отримувати інформацію про погоду та актуальны новини.
 
-### [Mr. Corgi's personal assistant](https://github.com/alenaporoskun/Christmas-developers_Corgi-s-personal-assistant-Group14.git)
-
-* Робота з контактною книгою (книгою отримувачів подарунків) та нотатками (списками побажань).
-
 ### [Website scraping (quotes)](Website_scraping)
 
 * Скрапінг сайту [quotes.toscrape.com](http://quotes.toscrape.com).
 
 * Реалізація аналогу такого сайту з можливістю реєстрації та додавання нового автора та нової цитати на сайт.
+
+### [Mr. Corgi's personal assistant](https://github.com/alenaporoskun/Christmas-developers_Corgi-s-personal-assistant-Group14.git)
+
+* Робота з контактною книгою (книгою отримувачів подарунків) та нотатками (списками побажань).
 
 ### [Clean folder](clean_folder)
 
