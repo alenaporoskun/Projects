@@ -3,7 +3,7 @@
    
 ## Завдання 
 
-У минулій домашній роботі ви виконували скрапінг сайту [quotes.toscrape.com](http://quotes.toscrape.com).
+У [минулій домашній роботі](Task_parsing_hw9) ви виконували скрапінг сайту [quotes.toscrape.com](http://quotes.toscrape.com).
 
 Вам необхідно самостійно реалізувати аналог такого сайту на Django.
 
