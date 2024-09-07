@@ -37,7 +37,7 @@
 
 ### Опис необхідних скриптів
 
-1. ```parser.py``` - скрипт для парсингу днаих з сайту [quotes.toscrape.com](http://quotes.toscrape.com)
+1. [parser.py](project_poetry/project_poetry/parser.py) - скрипт для парсингу днаих з сайту [quotes.toscrape.com](http://quotes.toscrape.com)
 2. ```process_csv_to_json.py``` - скрипт для завантаження результату парсингу у формат json
 3. ```load_json.py``` - скрипт для завантаження json файлів у хмарну базу даних Atlas MongoDB [cloud.mongodb.com](https://cloud.mongodb.com/v2/65d9a32ed4925f3961ccb339#/overview)
 5. ```main.py``` -  скрипт для пошуку цитат за тегом, за ім'ям автора або набором тегів. Скрипт виконується в нескінченному циклі і за допомогою звичайного оператора input приймає команди у наступному форматі команда: значення.   
