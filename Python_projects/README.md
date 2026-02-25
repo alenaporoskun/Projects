@@ -4,34 +4,34 @@
 
 ### [Image Classification Web Service](https://github.com/alenaporoskun/Group_4_Image_Classification_Web_Service.git)
 
-* ClassifyMe - це веб-сервіс класифікації зображень, побудований на веб-платформі Django з використанням TensorFlow та інших залежностей.
+* ClassifyMe - a web service for image classification, built on the Django web platform using TensorFlow and other dependencies.
 
 ### [Personal_Assistant](https://github.com/alenaporoskun/Group5_Personal_Assistant.git)
 
-* Персональний веб-додаток, створений за допомогою веб-фреймворку Django.
+* A personal web application created using the Django web framework.
 
-* Додаток дозволяє зберігати контакти, додавати нотатки, обробляти файли та отримувати інформацію про погоду та актуальны новини.
+* The app allows you to store contacts, add notes, edit files, and receive weather information and breaking news.
 
 ### [Website scraping (quotes)](Website_scraping)
 
-* Скрапінг сайту [quotes.toscrape.com](http://quotes.toscrape.com).
+* Website scraping [quotes.toscrape.com](http://quotes.toscrape.com).
 
-* Реалізація аналогу такого сайту з можливістю реєстрації та додавання нового автора та нової цитати на сайт.
+* Implementation of an analogue of such a website with the ability to register and add new authors and new quotes to the website.
 
 ### [Mr. Corgi's personal assistant](https://github.com/alenaporoskun/Christmas-developers_Corgi-s-personal-assistant-Group14.git)
 
-* Робота з контактною книгою (книгою отримувачів подарунків) та нотатками (списками побажань).
+* Working with the contact book (book of gift recipients) and notes (wish lists).
 
 ### [Clean folder](clean_folder)
 
-* Перетворює назви файлів кирилицею на латиницю.
+* Converts file names from Cyrillic to Latin characters.
 
-* Сортує файли за їхнім розширенням по папках.  
+* Sorts files by their extension into folders.  
   
-* Результат виконання скрипту, окрім сортування, є словник з вмістом з назвою відповідних папок та файлів.
+* The result of executing the script, apart from sorting, is a dictionary with the contents of the corresponding folders and files.
 
 ### [Data analysis project](Data_analysis_project)
 
-Статистичний та графічний аналіз даних про населення країн, ціни на нафту та паритет купівельної спроможності.
+Statistical and graphical analysis of data on the population of countries, oil prices and purchasing power parity.
 
 
