@@ -1,10 +1,13 @@
 # Python Projects
 
-### [University Python projects](../University_projects/Python)
+### [Work project](Repo_WORK)
 
-### [Image Classification Web Service](https://github.com/alenaporoskun/Group_4_Image_Classification_Web_Service.git)
 
-* ClassifyMe - a web service for image classification, built on the Django web platform using TensorFlow and other dependencies.
+
+
+### [Data analysis project](Data_analysis_project)
+
+Statistical and graphical analysis of data on the population of countries, oil prices and purchasing power parity.
 
 ### [Personal_Assistant](https://github.com/alenaporoskun/Group5_Personal_Assistant.git)
 
@@ -12,15 +15,9 @@
 
 * The app allows you to store contacts, add notes, edit files, and receive weather information and breaking news.
 
-### [Website scraping (quotes)](Website_scraping)
+### [Image Classification Web Service](https://github.com/alenaporoskun/Group_4_Image_Classification_Web_Service.git)
 
-* Website scraping [quotes.toscrape.com](http://quotes.toscrape.com).
-
-* Implementation of an analogue of such a website with the ability to register and add new authors and new quotes to the website.
-
-### [Mr. Corgi's personal assistant](https://github.com/alenaporoskun/Christmas-developers_Corgi-s-personal-assistant-Group14.git)
-
-* Working with the contact book (book of gift recipients) and notes (wish lists).
+* ClassifyMe - a web service for image classification, built on the Django web platform using TensorFlow and other dependencies.
 
 ### [Clean folder](clean_folder)
 
@@ -30,8 +27,10 @@
   
 * The result of executing the script, apart from sorting, is a dictionary with the contents of the corresponding folders and files.
 
-### [Data analysis project](Data_analysis_project)
+### [Website scraping (quotes)](Website_scraping)
 
-Statistical and graphical analysis of data on the population of countries, oil prices and purchasing power parity.
+* Website scraping [quotes.toscrape.com](http://quotes.toscrape.com).
 
+* Implementation of an analogue of such a website with the ability to register and add new authors and new quotes to the website.
 
+### [University Python projects](../University_projects/Python)

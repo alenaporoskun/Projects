@@ -1,0 +1,9 @@
+🚀 Новий запуск: 2026-11-02_16-12_Guide
+📂 Файл: Guide_sku_Bread_2026_10_29_version_3_OP.xlsx
+📋 Тип файлу: GUIDE
+📊 Рядків: 314,869
+✅ FLAVOR: порядок смаків правильний
+✅ NON-COMPLIANT CHARACTERS: непідходящих символів не знайдено
+✅ BRAND / MANUFACTURER: у кожного бренда один виробник
+✅ RETAILER / MANUFACTURER: невідповідностей не знайдено
+✅ EXTRA SPACES: зайвих пробілів не знайдено
